@@ -12,7 +12,7 @@ To Do:
 7. Test plugins
 
 Changes
-- Existing syslinux 4.05 modules upgraded to syslinux 6.01
+- Existing erpxe syslinux 4.05 modules & bootloaders upgraded to syslinux 6.01
 - New syslinux 6.01 modules & libraries added 
 	1. cptime.c32
 	2. hexdump.c32
