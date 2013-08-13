@@ -28,7 +28,7 @@ TEXT HELP
      Boot from default local system.
 ENDTEXT
 
-MENU SEPARATOR
+#MENU SEPARATOR
 
 # ------====> Boot Menu <====------
 MENU BEGIN ADVANCEDBOOTOPTIONS
@@ -50,4 +50,9 @@ TEXT HELP
      Reboot local system.
 ENDTEXT
 
+# ------====> Poweroff <====------
+MENU INCLUDE er/menu/shared/poweroff.module
+TEXT HELP
+     Poweroff local system.
+ENDTEXT
 MENU HIDDEN

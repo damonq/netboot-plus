@@ -1,0 +1,4 @@
+# Poweroff
+LABEL POWEROFF
+MENU LABEL ^Poweroff
+KERNEL pxelinux.cfg/roms/poweroff.com

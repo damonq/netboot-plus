@@ -1,0 +1,3 @@
+dhcp-boot=pxelinux.0,hda,
+enable-tftp
+tftp-root=/tftpboot
