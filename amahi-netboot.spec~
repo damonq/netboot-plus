@@ -58,7 +58,7 @@ fi
 - replaced tftp dir contents with erpxe base install package
 - replaced syslinux 4.05 bootloaders & modules from erpxe with sylinux 6.01 bootloaders & modules for http & ftp support pxe-boot support introduced in syslinux 5.10
 - added powerdown option to Main Menu utilizing syslinux powerdown.c32 module
-- added compiled ipxelinux.0 bootloader
+- added compiled ipxelinux.0 bootloader & lpxelinux.0
 * Wed Jul 17 2013 Carlos Puchol <cpg+git@amahi.org>
 - updated for fedora 19
 * Sun Aug  2 2009 Carlos Puchol <cpg+git@amahi.org>
