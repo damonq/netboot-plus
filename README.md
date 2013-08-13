@@ -7,6 +7,9 @@ To Do:
 2. Add automatic http configuration
 3. Add support for UEFI 
 4. Create amahi boot splash
+5. Customize menus for amahi 
+6. Check modules libcom32.c32, ldllinux.c32, libutil.c32
+7. Test plugins
 
 Changes
 - Existing syslinux 4.05 modules upgraded to syslinux 6.01
